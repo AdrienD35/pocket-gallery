@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://adriend35.github.io/pocket-gallery/sitemap.xml

@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Pocket Gallery",
+    "description": "",
+    "home_page_url": "https://adriend35.github.io/pocket-gallery",
+    "feed_url": "https://adriend35.github.io/pocket-gallery/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Adrien Deval"
+    },
+    "items": [
+    ]
+}
